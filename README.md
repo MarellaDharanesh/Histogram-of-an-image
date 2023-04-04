@@ -18,8 +18,8 @@ Step5: Display the grayscale image.
 
 ## Program:
 ```python
-# Developed By:Lakshman
-# Register Number:212222240001
+# Developed By:Marella Dharanesh
+# Register Number:212222240062
 
 # Write your code to find the histogram of gray scale image and color image channels.
 
@@ -72,11 +72,14 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-![OUTPUT](/1.png)
+![WhatsApp Image 2023-04-04 at 20 13 48](https://user-images.githubusercontent.com/118707669/229855531-a1cdad37-e17f-47cd-b66f-e16317c0c42c.jpg)
+
 ### Histogram of Grayscale Image and any channel of Color Image
-![OUTPUT](/2.png)
+
+![WhatsApp Image 2023-04-04 at 20 14 03](https://user-images.githubusercontent.com/118707669/229855451-8dd185a2-b6ce-4a36-af71-f34928737545.jpg)
 
 ### Histogram Equalization of Grayscale Image
-![OUTPUT](/3.png)
+![WhatsApp Image 2023-04-04 at 20 14 14](https://user-images.githubusercontent.com/118707669/229855231-a5050453-919a-44b1-925a-64531d3ea88b.jpg)
+
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
